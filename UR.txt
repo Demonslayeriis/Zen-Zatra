@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Zen Zatra</title>
+</head>
+<body>
+<h1>Zen Zatra</h1>
+<dl>
+<dt>About us</dt>
+<dt>
+Zen zatra is a company created to make rp of unknown regeion be more fun. We will haul passenger form one part of the space to another in the game starbase.
+The following is the format of ticket submision.
+</dl>
+<h2>Ticket format</h2>
+<ul>
+<li>Name of the traveller-</li>
+<li>Age(optional)-</li>
+<li>Gender(optional)-</li>
+<li>pickup point-</li>
+<li>destination-</li>
+<li>payment method-</li>
+<li>Usage of hyperspace- Yes/No</li>
+<li>(For VIP or UR high class officials)Ship of their choice-</li>
+</ul>
+</body>
+</html>
